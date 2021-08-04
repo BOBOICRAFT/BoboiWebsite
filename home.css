@@ -1,0 +1,26 @@
+*{
+    background-color: #0DB795;
+}
+
+#heading{
+    color: WHITE;
+    text-align: center;
+    font-size: 75px;
+    font-family: Sans-Serif;
+}
+
+p{
+    color: WHITE;
+    text-align: center;
+    font-size: 35px;
+    font-family: Sans-Serif;
+}
+
+.wrapper {
+    border: 3px solid black;
+    size: 5%;
+}
+
+.button {
+    font-size: 15px;
+}
